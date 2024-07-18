@@ -1,4 +1,5 @@
 # Fire Safety SQL and Pandas Project
+Recording: https://testingcircle-my.sharepoint.com/personal/lzheng_spartaglobal_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Flzheng%5Fspartaglobal%5Fcom%2FDocuments%2FRecordings%2FFire%20Safety%20%2DSql%20%26%20Pandas%2D20240718%5F150232%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E04a60a77%2Ddb0d%2D42c1%2D8c1c%2D106cdb57df78&ga=1
 
 ### Description
 
